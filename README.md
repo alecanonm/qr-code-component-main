@@ -20,7 +20,7 @@ This a Qr code built with html and css
 
 ### Screenshot
 
-![My solution screenshot](./screenshot.png)
+<img src="./screenshot.png" alt="My solution screenshot" width="500" />
 
 ### Links
 
